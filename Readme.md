@@ -7,3 +7,7 @@ Saiba mais no link [hfn.com.br](http://hfn.com.br)
 Gostou do Curso?
 
 Inserir um texto aqui!
+
+Git stash
+
+Outra Linha
